@@ -2,8 +2,8 @@
 
 * * *
 
-<a href="https://lycoris-recoil.com/character/?chara=takina">
-    <img src="https://lycoris-recoil.com/assets/img/character/chara_takina-02.png" align="right" >
+<a href="https://ichigoproduction.com/chara/kana.html">
+    <img src="https://ichigoproduction.com/core_sys/images/contents/00000014/block/00000041/00000045.png" align="right" >
 </a>
 
 这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
