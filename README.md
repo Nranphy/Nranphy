@@ -10,7 +10,7 @@
 
 欢迎访问我的[博客](https://blog.nranp.com)。
 
-You can my [blog](https://blog.nranp.com).
+You can visit my [blog](https://blog.nranp.com).
 
 ![Counter](https://count.getloli.com/get/@Nranphy?theme=rule34)
 
