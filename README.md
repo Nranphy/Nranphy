@@ -2,8 +2,8 @@
 
 * * *
 
-<a href="https://ichigoproduction.com/chara/ruby.html">
-    <img src="https://ichigoproduction.com/core_sys/images/contents/00000007/block/00000018/00000030.png" align="right" height="1000px">
+<a href="https://github.com/Nranphy">
+    <img src="./imgs/荻原沙優.png" align="right" style="max-width: 50%;height: auto;">
 </a>
 
 这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
@@ -12,7 +12,7 @@
 
 You can visit my [blog](https://blog.nranp.com).
 
-![Counter](https://count.getloli.com/get/@Nranphy?theme=rule34)
+<img src="https://count.getloli.com/get/@Nranphy?theme=rule34" alt="Counter" style="max-width: 50%;height: auto;">
 
 仍在学习中...
 
