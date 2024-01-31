@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Nranphy">
     <img src="./imgs/フリーレン.png" 
-    style="position: absolute; right: 0px; width: 30em; height: auto;"
+    style="position: absolute; right: 0px; width: 35em; height: auto;"
     align="right"
     style="width: 25em; height: auto;">
 </a>
@@ -18,7 +18,7 @@ You can visit my [blog](https://blog.nranp.com).
 <img
 src="https://count.getloli.com/get/@Nranphy?theme=rule34"
 alt="Counter"
-style="width: 18em; height: auto;">
+style="width: 20em; height: auto;">
 
 *访问人数 (Viewed)*
 
