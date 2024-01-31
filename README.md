@@ -2,7 +2,7 @@
 
 * * *
 
-<div style="float: right; max-width: 50%">
+<div style="position: relative; float: right; width: 25em">
     <a href="https://github.com/Nranphy">
         <img src="./imgs/フリーレン.png" 
         style="width: auto; height: auto;">
@@ -15,7 +15,7 @@
 
 You can visit my [blog](https://blog.nranp.com).
 
-<div>
+<div style="position: relative; float: left; width: 25em">
     <img
     src="https://count.getloli.com/get/@Nranphy?theme=rule34"
     alt="Counter"
