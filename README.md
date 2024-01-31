@@ -9,7 +9,7 @@
 You can visit my [blog](https://blog.nranp.com).
 
 <a href="https://github.com/Nranphy">
-    <img src="./imgs/フリーレン.png" 
+    <img src="./imgs/後藤ひとり.png" 
     style="position: absolute; right: 0px; width: 35em; height: auto;"
     align="right"
     style="width: 25em; height: auto;">
