@@ -4,8 +4,8 @@
 
 <a href="https://github.com/Nranphy">
     <img src="./imgs/フリーレン.png" 
-    style="position: absolute; right: 0px; width: 25em; height: auto;"
-    align="right" 
+    style="position: absolute; right: 0px; width: 30em; height: auto;"
+    align="right"
     style="width: 25em; height: auto;">
 </a>
 
@@ -18,10 +18,8 @@ You can visit my [blog](https://blog.nranp.com).
 <img
 src="https://count.getloli.com/get/@Nranphy?theme=rule34"
 alt="Counter"
-style="float: left; width: 23em; height: auto;">
-<p style="position: relative; text-align: center; font-style: italic; color: #666;">
-    访问人数 (Viewed)
-</p>
+style="width: 18em; height: auto;">
+*访问人数 (Viewed)*
 
 > 路漫漫其修远兮，吾将上下而求索。
 > 
