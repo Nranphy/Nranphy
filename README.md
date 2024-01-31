@@ -5,7 +5,7 @@
 <div style="position: relative; float: right; width: 25em">
     <a href="https://github.com/Nranphy">
         <img src="./imgs/フリーレン.png" 
-        style="width: auto; height: auto;">
+        style="position: relative; float: right; width: 25em; height: auto;">
     </a>
 </div>
 
@@ -19,7 +19,7 @@ You can visit my [blog](https://blog.nranp.com).
     <img
     src="https://count.getloli.com/get/@Nranphy?theme=rule34"
     alt="Counter"
-    style="position: relative; width: auto; height: auto;">
+    style="position: relative; width: 23em; height: auto;">
     <p style="position: relative; text-align: center; font-style: italic; color: #666;">
         访问人数 (Viewed)
     </p>
