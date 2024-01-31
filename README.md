@@ -2,10 +2,10 @@
 
 * * *
 
-<dev style="float: right">
+<dev style="float: right; max-width: 50%">
     <a href="https://github.com/Nranphy">
         <img src="./imgs/フリーレン.png" 
-        style="max-width: 40%; height: auto;">
+        style="width: auto; height: auto;">
     </a>
 </dev>
 
