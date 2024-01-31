@@ -2,10 +2,12 @@
 
 * * *
 
-<a href="https://github.com/Nranphy" style="float: right">
-    <img src="./imgs/フリーレン.png" 
-    style="max-width: 50%; height: auto;">
-</a>
+<dev style="float: right">
+    <a href="https://github.com/Nranphy">
+        <img src="./imgs/フリーレン.png" 
+        style="max-width: 40%; height: auto;">
+    </a>
+</dev>
 
 这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
 
@@ -13,7 +15,7 @@
 
 You can visit my [blog](https://blog.nranp.com).
 
-<dev style="float: left;">
+<dev>
     <img
     src="https://count.getloli.com/get/@Nranphy?theme=rule34"
     alt="Counter"
@@ -23,10 +25,10 @@ You can visit my [blog](https://blog.nranp.com).
     </p>
 </dev>
 
-路漫漫其修远兮，吾将上下而求索。
-
-The way was long, and wrapped in gloom did seem,
-As I urged on to seek my vanished dream.
+> 路漫漫其修远兮，吾将上下而求索。
+> 
+> The way was long, and wrapped in gloom did seem,
+> As I urged on to seek my vanished dream.
 
 ### 我的编程工具 (My coding tools)：
 
