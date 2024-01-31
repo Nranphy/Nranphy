@@ -2,8 +2,9 @@
 
 * * *
 
-<a href="https://github.com/Nranphy">
-    <img src="./imgs/フリーレン.png" align="right" style="max-width: 50%; height: auto;">
+<a href="https://github.com/Nranphy" style="float: right">
+    <img src="./imgs/フリーレン.png" 
+    style="max-width: 50%; height: auto;">
 </a>
 
 这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
