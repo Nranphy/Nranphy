@@ -1,4 +1,4 @@
-### Hi there, here is Nranphy.
+## Hi there, here is Nranphy.
 
 * * *
 
@@ -19,6 +19,7 @@ You can visit my [blog](https://blog.nranp.com).
 src="https://count.getloli.com/get/@Nranphy?theme=rule34"
 alt="Counter"
 style="width: 18em; height: auto;">
+
 *访问人数 (Viewed)*
 
 > 路漫漫其修远兮，吾将上下而求索。
@@ -36,7 +37,9 @@ style="width: 18em; height: auto;">
 
 ### 现有技能 (My skills)：
 
-I am majoring in Data Science and Big Data Technology, having studied some programming fundamentals as well as machine learning and deep learning algorithms.
+I am majoring in Data Science and Big Data Technology,
+having studied some programming fundamentals
+as well as machine learning and deep learning algorithms.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) ![JavaSE](https://img.shields.io/badge/-JavaSE-orange?style=flat-square&logo=Oracle&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff) ![Bash](https://img.shields.io/badge/-GNUBash-4EAA25?style=flat-square&logo=GNUBash&logoColor=fff)
 
