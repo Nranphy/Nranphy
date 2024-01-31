@@ -2,12 +2,12 @@
 
 * * *
 
-<dev style="float: right; max-width: 50%">
+<div style="float: right; max-width: 50%">
     <a href="https://github.com/Nranphy">
         <img src="./imgs/フリーレン.png" 
         style="width: auto; height: auto;">
     </a>
-</dev>
+</div>
 
 这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
 
@@ -15,7 +15,7 @@
 
 You can visit my [blog](https://blog.nranp.com).
 
-<dev>
+<div>
     <img
     src="https://count.getloli.com/get/@Nranphy?theme=rule34"
     alt="Counter"
@@ -23,7 +23,7 @@ You can visit my [blog](https://blog.nranp.com).
     <p style="position: relative; text-align: center; font-style: italic; color: #666;">
         访问人数 (Viewed)
     </p>
-</dev>
+</div>
 
 > 路漫漫其修远兮，吾将上下而求索。
 > 
