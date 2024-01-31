@@ -2,18 +2,18 @@
 
 * * *
 
+这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
+
+欢迎访问我的[博客](https://blog.nranp.com)。
+
+You can visit my [blog](https://blog.nranp.com).
+
 <a href="https://github.com/Nranphy">
     <img src="./imgs/フリーレン.png" 
     style="position: absolute; right: 0px; width: 35em; height: auto;"
     align="right"
     style="width: 25em; height: auto;">
 </a>
-
-这里是**津轻年回（Nranphy）**，津轻仅仅是喜欢的作家的故乡，你可以直接称呼我为**年回**。
-
-欢迎访问我的[博客](https://blog.nranp.com)。
-
-You can visit my [blog](https://blog.nranp.com).
 
 <img
 src="https://count.getloli.com/get/@Nranphy?theme=rule34"
