@@ -4,6 +4,7 @@
 
 <a href="https://github.com/Nranphy">
     <img src="./imgs/フリーレン.png" 
+    style="position: absolute; right: 0px; width: 25em; height: auto;">
     align="right" 
     style="width: 25em; height: auto;">
 </a>
